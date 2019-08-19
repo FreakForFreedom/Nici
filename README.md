@@ -16,3 +16,22 @@ even with his young age? As immortals, both of their
 lives were still young, him being only 128 years old.
 
 /^(.)/gm
+
+
+ _______   __    __  _______        
+/       \ /  |  /  |/       \       
+$$$$$$$  |$$ |  $$ |$$$$$$$  |      
+$$ |__$$ |$$ |__$$ |$$ |__$$ |      
+$$    $$/ $$    $$ |$$    $$/       
+$$$$$$$/  $$$$$$$$ |$$$$$$$/        
+$$ |      $$ |  $$ |$$ |            
+$$ |      $$ |  $$ |$$ |            
+$$/       $$/   $$/ $$/ 
+Log Excerpt #42:
+User No 68747470733A2F2F
+Serial No 7777772E7265786567672E63
+6F6D2F72656765782D717569636B73746172742E68746D6C
+Password: *************
+-> Password correct. Welcome home, user.
+Please enter sequence: /\b[a-zA-Z]/s
+Error: Sequence only returns first match. First three matches expected.
